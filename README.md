@@ -727,7 +727,7 @@ products.html:
 
 ## OUTPUT:
 
-![Output](home.png)
+![Output](homepage.png)
 ![Output](products.png)
 ![Output](people1.png)
 ![Output](people2.png)
